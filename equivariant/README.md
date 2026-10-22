@@ -21,17 +21,20 @@ main proof in Sections 2–6.
   * `constituents_of_W_rho`: the newform orbits occurring in the representative, by LMFDB label,
     each with multiplicity one.
 
-* `cert1777_full.json.gz`: the full certificate. Its SHA-256 digest is
-  `7cb552e4d3ba8e03afcef1323df74e824e2ff80673e6bb9317e9f4669c4c42c6`, as stated in
-  Appendix B.2 of the article. It contains:
-  * the local character tables, the subgroup elements and the 44 blocks;
-  * the candidate spaces and exact coefficient data;
-  * the 15576 exact traces, the multiplicities and the maximal minors;
-  * the coefficient fields and twist data of the non-rational forms.
-
-* The Python verifiers for the certificate: group computations, trace formula, candidate lists,
-  rank minors, twist and Brauer-class checks, and the property-first variant.
-
-> **To do before publishing the repository:** add `cert1777_full.json.gz` and its Python
-> verifiers to this folder, check that `sha256sum cert1777_full.json.gz` returns the digest above,
-> and regenerate `../SHA256SUMS`.
+* `repro1777/`: the full certificate package, unchanged from the author's reproducibility bundle
+  (see `repro1777/README.md` for its own description). It contains:
+  * `repro1777/cert1777_full.json.gz`: the certificate. Its SHA-256 digest is
+    `7cb552e4d3ba8e03afcef1323df74e824e2ff80673e6bb9317e9f4669c4c42c6`, as stated in Appendix B.2
+    of the article. It contains the local character tables, the subgroup elements and the 44 blocks;
+    the candidate spaces and exact coefficient data; the 15576 exact traces, the multiplicities and
+    the maximal minors; and the coefficient fields and twist data of the non-rational forms.
+  * Three verifiers that need only the Python standard library and read only the certificate:
+    ```
+    cd repro1777
+    python3 verify1777.py      cert1777_full.json.gz   # V1-V5   (a few minutes)
+    python3 verify_traces.py   cert1777_full.json.gz   # V6      (a few minutes)
+    python3 verify_complete.py cert1777_full.json.gz   # V7a, V7b
+    ```
+  * The scripts `s1_tables.g` to `s10_export.py` and the GAP tables `tables_*.txt`, which regenerate
+    the certificate from scratch (GAP 4, PARI/GP, Python with numpy and sympy).
+* `verifier_output.txt`: the output of the three verifiers above. All checks pass.

@@ -1,0 +1,16 @@
+# Output of the three certificate verifiers in repro1777/, run with Python 3.13.16
+
+$ python3 verify1777.py cert1777_full.json.gz
+[PASS] V1 genus by coset enumeration (index 23040, e2 0, e3 0, cusps 288, genus 1777)
+[PASS] V2 block dimensions sum to the genus (44 blocks, total 1777)
+[PASS] V3 exact identity sum n_f Tr a_p(f) = -N_p(rho) in Q(zeta_24), all blocks x all primes []
+[PASS] V4 rank witnesses (nonzero minors mod ell; candidate columns linearly independent) []
+[PASS] V5 ellipticity of every non-rational orbit (CM / inner twists / split Brauer class) []
+ALL CHECKS PASSED
+
+$ python3 verify_traces.py cert1777_full.json.gz
+[PASS] V6 traces recomputed from the GAP tables for primes index 0..353 (354 primes x 44 blocks) []
+
+$ python3 verify_complete.py cert1777_full.json.gz
+[PASS] V7a candidate spaces = all spaces allowed by the recomputed conductor bounds and central characters []
+[PASS] V7b newspace dimensions: Cohen-Oesterle = recorded dimension = number of newforms listed (38 spaces) []
