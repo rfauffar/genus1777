@@ -1,0 +1,75 @@
+(V0) 70 newspace dimensions agree with the Cohen-Oesterle formula
+(V1) dim S2(G0(4800)) = 889, dim S2(4800,chi5) = 888, sum = 1777
+     S2new(15,1): dim 1, orbit degrees [1], multiplicity 14
+     S2new(20,1): dim 1, orbit degrees [1], multiplicity 20
+     S2new(24,1): dim 1, orbit degrees [1], multiplicity 12
+     S2new(30,1): dim 1, orbit degrees [1], multiplicity 12
+     S2new(30,chi5): dim 2, orbit degrees [2], multiplicity 12
+     S2new(32,1): dim 1, orbit degrees [1], multiplicity 12
+     S2new(40,1): dim 1, orbit degrees [1], multiplicity 16
+     S2new(40,chi5): dim 2, orbit degrees [2], multiplicity 16
+     S2new(48,1): dim 1, orbit degrees [1], multiplicity 9
+     S2new(50,1): dim 2, orbit degrees [1, 1], multiplicity 12
+     S2new(50,chi5): dim 2, orbit degrees [2], multiplicity 12
+     S2new(60,chi5): dim 2, orbit degrees [2], multiplicity 10
+     S2new(64,1): dim 1, orbit degrees [1], multiplicity 6
+     S2new(75,1): dim 3, orbit degrees [1, 1, 1], multiplicity 7
+     S2new(75,chi5): dim 4, orbit degrees [2, 2], multiplicity 7
+     S2new(80,1): dim 2, orbit degrees [1, 1], multiplicity 12
+     S2new(80,chi5): dim 2, orbit degrees [2], multiplicity 12
+     S2new(96,1): dim 2, orbit degrees [1, 1], multiplicity 6
+     S2new(100,1): dim 1, orbit degrees [1], multiplicity 10
+     S2new(100,chi5): dim 2, orbit degrees [2], multiplicity 10
+     S2new(120,1): dim 2, orbit degrees [1, 1], multiplicity 8
+     S2new(120,chi5): dim 2, orbit degrees [2], multiplicity 8
+     S2new(150,1): dim 3, orbit degrees [1, 1, 1], multiplicity 6
+     S2new(150,chi5): dim 2, orbit degrees [2], multiplicity 6
+     S2new(160,1): dim 4, orbit degrees [1, 1, 2], multiplicity 8
+     S2new(160,chi5): dim 6, orbit degrees [2, 4], multiplicity 8
+     S2new(192,1): dim 4, orbit degrees [1, 1, 1, 1], multiplicity 3
+     S2new(200,1): dim 5, orbit degrees [1, 1, 1, 1, 1], multiplicity 8
+     S2new(200,chi5): dim 4, orbit degrees [2, 2], multiplicity 8
+     S2new(240,1): dim 4, orbit degrees [1, 1, 1, 1], multiplicity 6
+     S2new(240,chi5): dim 6, orbit degrees [2, 2, 2], multiplicity 6
+     S2new(300,1): dim 4, orbit degrees [1, 1, 1, 1], multiplicity 5
+     S2new(300,chi5): dim 2, orbit degrees [2], multiplicity 5
+     S2new(320,1): dim 8, orbit degrees [1, 1, 1, 1, 1, 1, 2], multiplicity 4
+     S2new(320,chi5): dim 10, orbit degrees [2, 2, 2, 4], multiplicity 4
+     S2new(400,1): dim 8, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1], multiplicity 6
+     S2new(400,chi5): dim 8, orbit degrees [2, 2, 2, 2], multiplicity 6
+     S2new(480,1): dim 8, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1], multiplicity 4
+     S2new(480,chi5): dim 12, orbit degrees [2, 2, 2, 2, 4], multiplicity 4
+     S2new(600,1): dim 9, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1], multiplicity 4
+     S2new(600,chi5): dim 10, orbit degrees [2, 2, 2, 2, 2], multiplicity 4
+     S2new(800,1): dim 19, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2], multiplicity 4
+     S2new(800,chi5): dim 18, orbit degrees [2, 2, 2, 2, 2, 4, 4], multiplicity 4
+     S2new(960,1): dim 16, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], multiplicity 2
+     S2new(960,chi5): dim 24, orbit degrees [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4], multiplicity 2
+     S2new(1200,1): dim 19, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], multiplicity 3
+     S2new(1200,chi5): dim 18, orbit degrees [2, 2, 2, 2, 2, 2, 2, 2, 2], multiplicity 3
+     S2new(1600,1): dim 35, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2], multiplicity 2
+     S2new(1600,chi5): dim 34, orbit degrees [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4], multiplicity 2
+     S2new(2400,1): dim 38, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2], multiplicity 2
+     S2new(2400,chi5): dim 36, orbit degrees [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2], multiplicity 2
+     S2new(4800,1): dim 76, orbit degrees [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2], multiplicity 1
+     S2new(4800,chi5): dim 72, orbit degrees [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2], multiplicity 1
+(V2) weighted total = 1777; orbit counts by (character, field): {(1, 'Q'): 248, (5, 'y^2 + 1'): 124, (1, 'y^2 - 2'): 4, (5, 'y^4 + 3*y^2 + 1'): 6, (1, 'y^2 - y - 1'): 12, (5, 'y^4 + 1'): 2}
+(V3) M=  160 K=Q(sqrt2) twist D=  -4 L=  160 B(L)=   48 coefficients checked=  24 verified=True  (t,D)=(2,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M=  320 K=Q(sqrt2) twist D=  -4 L=  320 B(L)=   96 coefficients checked=  48 verified=True  (t,D)=(2,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M=  800 K=Q(sqrt5) CM    D= -20 L=  800 B(L)=  240 coefficients checked=  96 verified=True  CM => elliptic building block
+(V3) M=  800 K=Q(sqrt2) twist D=  -4 L=  800 B(L)=  240 coefficients checked= 120 verified=True  (t,D)=(2,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M=  800 K=Q(sqrt5) CM    D= -20 L=  800 B(L)=  240 coefficients checked=  96 verified=True  CM => elliptic building block
+(V3) M=  800 K=Q(sqrt5) twist D=  -4 L=  800 B(L)=  240 coefficients checked= 120 verified=True  (t,D)=(5,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M=  800 K=Q(sqrt5) twist D=  -4 L=  800 B(L)=  240 coefficients checked= 120 verified=True  (t,D)=(5,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 1600 K=Q(sqrt5) CM    D= -20 L= 1600 B(L)=  480 coefficients checked= 192 verified=True  CM => elliptic building block
+(V3) M= 1600 K=Q(sqrt2) twist D=  -4 L= 1600 B(L)=  480 coefficients checked= 240 verified=True  (t,D)=(2,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 1600 K=Q(sqrt5) CM    D= -20 L= 1600 B(L)=  480 coefficients checked= 192 verified=True  CM => elliptic building block
+(V3) M= 1600 K=Q(sqrt5) twist D=  -4 L= 1600 B(L)=  480 coefficients checked= 240 verified=True  (t,D)=(5,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 1600 K=Q(sqrt5) twist D=  -4 L= 1600 B(L)=  480 coefficients checked= 240 verified=True  (t,D)=(5,-4); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 2400 K=Q(sqrt5) twist D= -20 L= 2400 B(L)=  960 coefficients checked= 384 verified=True  (t,D)=(5,-20); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 2400 K=Q(sqrt5) twist D= -20 L= 2400 B(L)=  960 coefficients checked= 384 verified=True  (t,D)=(5,-20); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 4800 K=Q(sqrt5) twist D= -20 L= 4800 B(L)= 1920 coefficients checked= 768 verified=True  (t,D)=(5,-20); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V3) M= 4800 K=Q(sqrt5) twist D= -20 L= 4800 B(L)= 1920 coefficients checked= 768 verified=True  (t,D)=(5,-20); exact Hilbert symbols at oo,2,3,5 = [1, 1, 1, 1]
+(V4) all 132 chi_5-orbits are quartic twists of trivial-character orbits (7 <= p < 400)
+(V5) traces of Frobenius on H^1: [-8, -84, -18, -30, -12, 8, -34, -64, 6, -246, -36]
+All checks passed.

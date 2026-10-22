@@ -1,0 +1,17 @@
+level,field,a7,a11,a13,a17,type,D,L,sturm_bound,quaternion_symbol,multiplicity_sigma0
+160,Q(sqrt2),2*sqrt2,4*sqrt2,-2,2,inner twist,-4,160,48,"(2,-4)",8
+320,Q(sqrt2),-2*sqrt2,4*sqrt2,2,2,inner twist,-4,320,96,"(2,-4)",4
+800,Q(sqrt5),3+sqrt5,0,0,0,CM,-20,800,240,,4
+800,Q(sqrt2),2*sqrt2,-4*sqrt2,2,-2,inner twist,-4,800,240,"(2,-4)",4
+800,Q(sqrt5),-3+sqrt5,0,0,0,CM,-20,800,240,,4
+800,Q(sqrt5),-2*sqrt5,-sqrt5,4,-7,inner twist,-4,800,240,"(5,-4)",4
+800,Q(sqrt5),-2*sqrt5,sqrt5,-4,7,inner twist,-4,800,240,"(5,-4)",4
+1600,Q(sqrt5),-3-sqrt5,0,0,0,CM,-20,1600,480,,2
+1600,Q(sqrt2),-2*sqrt2,-4*sqrt2,-2,-2,inner twist,-4,1600,480,"(2,-4)",2
+1600,Q(sqrt5),3-sqrt5,0,0,0,CM,-20,1600,480,,2
+1600,Q(sqrt5),-2*sqrt5,-sqrt5,4,7,inner twist,-4,1600,480,"(5,-4)",2
+1600,Q(sqrt5),-2*sqrt5,sqrt5,-4,-7,inner twist,-4,1600,480,"(5,-4)",2
+2400,Q(sqrt5),2,-2*sqrt5,-2*sqrt5,2*sqrt5,inner twist,-20,2400,960,"(5,-20)",2
+2400,Q(sqrt5),-2,-2*sqrt5,2*sqrt5,-2*sqrt5,inner twist,-20,2400,960,"(5,-20)",2
+4800,Q(sqrt5),-2,-2*sqrt5,2*sqrt5,2*sqrt5,inner twist,-20,4800,1920,"(5,-20)",1
+4800,Q(sqrt5),2,-2*sqrt5,-2*sqrt5,-2*sqrt5,inner twist,-20,4800,1920,"(5,-20)",1

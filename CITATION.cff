@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the article."
+title: "Supplementary material for: A modular curve of genus 1777 with completely decomposable Jacobian"
+authors:
+  - family-names: Auffarth
+    given-names: R.
+    affiliation: "Universidad de Chile"
+    email: rfauffar@uchile.cl
+repository-code: "https://github.com/rfauffar/genus1777"
+license: MIT
+date-released: 2026-10-22
+preferred-citation:
+  type: article
+  title: "A modular curve of genus 1777 with completely decomposable Jacobian"
+  authors:
+    - family-names: Auffarth
+      given-names: R.
+  year: 2026
